@@ -1,4 +1,4 @@
-![Banner](https://github.com/1deep1/1deep1/blob/master/banner.png)
+![Banner](https://github.com/1deep1/1deep1/blob/master/banner.jpg)
 # 💡deep💡
 ###### Junior Frontend-developer
 (About)
