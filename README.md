@@ -1,8 +1,9 @@
 ![Banner](/banner.png)
-### 💡deep Page💡
+# 💡deep Page💡
 ###### Junior Frontend-developer
 (About)
-#### Skills and Experience
+
+## Skills and Experience
 - Number 1
 - Number 2
 - Number 3
@@ -15,5 +16,5 @@
 ![deep's GitHub stats](https://github-readme-stats.vercel.app/api?username=1deep1&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1deep1&layout=compact)](https://github.com/1deep1)
 
-#### Examples of Work
+## Examples of Work
 (Some examples)
