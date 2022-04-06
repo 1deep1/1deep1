@@ -1,12 +1,12 @@
 ![Banner](https://github.com/1deep1/1deep1/blob/main/banner.jpg)
 # 💡deep💡
-###### Junior Frontend-developer
+###### Junior Web developer
 (About)
 
 ## Skills and Experience
-* Number 1
-* Number 2
-* Number 3
+* Golang
+* Next.JS + Typescript
+* Unity + C#
 
 **Some links:**
 * [Website](https://1deep1.ru/)
@@ -17,4 +17,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1deep1&layout=compact)](https://github.com/1deep1)
 
 ## Examples of Work
-(Some examples)
+[Here](https://1deep1.ru/works)
