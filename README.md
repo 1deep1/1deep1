@@ -4,12 +4,11 @@
 (About)
 
 ## Skills and Experience
-* Golang
-* Next.JS + Typescript
-* Unity + C#
+* React, Next.JS + JavaScript
+* Unity
 
 **Some links:**
-* [Website](https://1deep1.ru/)
+* [Website](https://1deep1.com/) - Site in early beta
 * [LinkedIn](https://www.linkedin.com/in/deep-dev/)
 * [HackerRank](https://www.hackerrank.com/egor_grachev_ma1)
 
