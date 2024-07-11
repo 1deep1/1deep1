@@ -1,16 +1,23 @@
-## Hi there 👋
+![deep banner](https://www.1deep1.com/assets/deep-banner.png)
+# //deep <sup>web-dev</sup> 
 
-<!--
-**1deep1/1deep1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills:
+> React, Next.JS + JavaScript, TypeScript
 
-Here are some ideas to get you started:
+> AWS, Cloud Computing, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Resources:
+
+**Portfolio:**\
+– &nbsp;[Gallery - deep (under construction)](https://www.1deep1.com/gallery)
+
+**Links:**\
+– &nbsp;[Website (under construction)](https://www.1deep1.com/)\
+– &nbsp;[LinkedIn](https://www.linkedin.com/in/deep-dev/)\
+– &nbsp;[HackerRank](https://www.hackerrank.com/profile/1deep1)
+
+---
+
+<img src="https://myreadme.vercel.app/api/embed/1deep1?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="git widget" />
